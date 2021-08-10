@@ -1,5 +1,5 @@
-### IntelliJ IDEA ###
-=======
+### IntelliJ IDEA ### 
 .idea
 *.iml
-*.ipr
+*.ipr 
+*.iws
